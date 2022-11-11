@@ -1,4 +1,5 @@
 # hello-world
 My first repository
 
-## My name is Noah Silva-Lopez and I go to IvyTech Community College
+# About Me
+My name is Noah Silva-Lopez and I go to IvyTech Community College
