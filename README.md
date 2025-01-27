@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hi my name is Noah Silva-Lopez and I go to Ball State University.
